@@ -50,7 +50,7 @@
 - Nginx (Reverse Proxy, SSL)
 - Docker & Containerization
 - Shell Scripting (Bash)
-- CI/CD Basics
+- CI/CD 
 - Domain & DNS Management
 
 ### Databases & Messaging
