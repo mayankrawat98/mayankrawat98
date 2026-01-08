@@ -1,6 +1,7 @@
 # Hi 👋 I'm Mayank Rawat
 
 🚀 Backend-Focused Full Stack Developer  
+⚙️ Backend • DevOps • Infrastructure  
 💻 Building scalable, secure, and high-performance web applications
 
 ---
@@ -19,10 +20,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently improving my skills in **NestJS, System Design, and Databases**
-- 🏗️ Strong focus on **backend architecture and API design**
-- 🎯 Passionate about **performance, scalability, and clean code**
-- 📚 Preparing for **technical interviews (DSA + SQL + Backend + Web)**
+- 🌱 Improving skills in **NestJS, System Design, Databases, and Infrastructure**
+- 🏗️ Strong focus on **backend architecture, scalability, and reliability**
+- 🎯 Passionate about **performance, security, and automation**
+- 📚 Preparing for **technical interviews (DSA + SQL + Backend + DevOps)**
 
 ---
 
@@ -33,8 +34,8 @@
 - NestJS
 - Express.js
 - REST APIs
-- Authentication & Authorization
-- Background Jobs & Queues 
+- Authentication & Authorization (JWT, RBAC)
+- Background Jobs & Queues
 
 ### Frontend
 - React.js
@@ -43,24 +44,36 @@
 - Tailwind CSS
 - HTML5, CSS3, JavaScript (ES6+)
 
-### Database & Tools
+### DevOps / Infrastructure
+- Linux (Ubuntu)
+- VPS Setup & Management
+- Nginx (Reverse Proxy, SSL)
+- Docker & Containerization
+- Shell Scripting (Bash)
+- CI/CD Basics
+- Domain & DNS Management
+
+### Databases & Messaging
 - PostgreSQL
 - MySQL
 - MongoDB
-- Redis
+- Redis (Caching & Queues)
 - Firebase
-- Git & GitHub
-- Docker 
+- SMTP / Email Infrastructure
 
 ---
 
-## 🧠 Backend Strengths
+## 🧠 Backend & DevOps Strengths
 
 - ⚙️ Designed **scalable REST APIs** using NestJS
 - 🔐 Implemented **JWT & role-based authentication**
-- 🗄️ Strong experience with **relational & NoSQL databases**
-- 🚀 Used **Redis for caching & performance optimization**
-- 🧩 Focused on **clean architecture & maintainable code**
+- 🗄️ Experience with **relational & NoSQL databases**
+- 🚀 Used **Redis for caching, rate limiting & performance**
+- 🐳 Containerized services using **Docker**
+- 🖥️ Deployed applications on **VPS with Nginx & SSL**
+- 📬 Built and configured **custom SMTP mail servers**
+- 🛠️ Automated tasks using **shell scripts**
+- 🧩 Focused on **clean architecture & maintainable systems**
 
 ---
 
