@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
 
 <p align="center">
   <img src="https://github-readme-stats-nine-lilac-14.vercel.app/api?username=mayankrawat98&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" />
@@ -14,6 +14,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats-nine-lilac-14.vercel.app/api/top-langs?username=mayankrawat98&layout=compact&langs_count=6&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2340&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 </p>
 
 ---
