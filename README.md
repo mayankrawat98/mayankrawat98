@@ -5,6 +5,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-nine-lilac-14.vercel.app/api?username=mayankrawat98&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-nine-lilac-14.vercel.app/api/top-langs?username=mayankrawat98&layout=compact&langs_count=6&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
 - 🌱 Currently improving my skills in **NestJS, System Design, and Databases**
@@ -42,11 +54,13 @@
 
 ---
 
-## 📈 GitHub Activity
+## 🧠 Backend Strengths
 
-<img src="https://github-readme-stats-nine-lilac-14.vercel.app/api?username=mayankrawat98&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-stats-nine-lilac-14.vercel.app/api/top-langs?username=mayankrawat98&layout=compact&theme=dark&hide_border=true" />
+- ⚙️ Designed **scalable REST APIs** using NestJS
+- 🔐 Implemented **JWT & role-based authentication**
+- 🗄️ Strong experience with **relational & NoSQL databases**
+- 🚀 Used **Redis for caching & performance optimization**
+- 🧩 Focused on **clean architecture & maintainable code**
 
 ---
 
