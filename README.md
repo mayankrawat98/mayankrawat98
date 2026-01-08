@@ -46,8 +46,6 @@
 
 <img src="https://github-readme-stats-nine-lilac-14.vercel.app/api?username=mayankrawat98&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-stats-nine-lilac-14.vercel.app/api/streak?user=mayankrawat98&theme=dark&hide_border=true" />
-
 <img src="https://github-readme-stats-nine-lilac-14.vercel.app/api/top-langs?username=mayankrawat98&layout=compact&theme=dark&hide_border=true" />
 
 ---
