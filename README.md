@@ -34,7 +34,7 @@
 - Express.js
 - REST APIs
 - Authentication & Authorization
-- Background Jobs & Queues (Basics)
+- Background Jobs & Queues 
 
 ### Frontend
 - React.js
@@ -50,7 +50,7 @@
 - Redis
 - Firebase
 - Git & GitHub
-- Docker (Basics)
+- Docker 
 
 ---
 
