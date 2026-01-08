@@ -1,20 +1,28 @@
 # Hi 👋 I'm Mayank Rawat
 
-🚀 Software Developer | Frontend-Focused | Full Stack Enthusiast  
-💻 Building clean, scalable, and user-friendly web applications
+🚀 Backend-Focused Full Stack Developer  
+💻 Building scalable, secure, and high-performance web applications
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently improving my skills in **React, TypeScript, and System Design**
-- 🏗️ Experienced with **frontend-heavy full stack projects**
-- 🎯 Focused on **performance, clean UI, and maintainable code**
-- 📚 Preparing for **technical interviews (DSA + SQL + Web)**
+- 🌱 Currently improving my skills in **NestJS, System Design, and Databases**
+- 🏗️ Strong focus on **backend architecture and API design**
+- 🎯 Passionate about **performance, scalability, and clean code**
+- 📚 Preparing for **technical interviews (DSA + SQL + Backend + Web)**
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Backend (Primary)
+- Node.js
+- NestJS
+- Express.js
+- REST APIs
+- Authentication & Authorization
+- Background Jobs & Queues (Basics)
 
 ### Frontend
 - React.js
@@ -22,12 +30,6 @@
 - TypeScript
 - Tailwind CSS
 - HTML5, CSS3, JavaScript (ES6+)
-
-### Backend
-- Node.js
-- NestJS
-- Express.js
-- REST APIs
 
 ### Database & Tools
 - PostgreSQL
@@ -42,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankrawat98&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankrawat98&show_icons=true&theme=github_dark&cache_seconds=86400)
 
 ## 🔥 GitHub Streak
 
@@ -56,7 +58,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [linkedinn](https://www.linkedin.com/in/mayankrawat2402/ )
+- 💼 LinkedIn: [linkedin.com/in/mayankrawat2402](https://www.linkedin.com/in/mayankrawat2402/)
 - 📧 Email: mr.mayank2402@gmail.com
 - 🌐 Portfolio: https://portfolio-006.vercel.app
 
