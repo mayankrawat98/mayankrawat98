@@ -44,7 +44,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankrawat98&show_icons=true&theme=github_dark&cache_seconds=86400)
+<img
+  src="https://github-readme-stats-nine-lilac-14.vercel.app/api
+  ?username=mayankrawat98
+  &show_icons=true
+  &include_all_commits=true
+  &count_private=true
+  &hide_border=true
+  &theme=dark"
+/>
 
 ## 🔥 GitHub Streak
 
